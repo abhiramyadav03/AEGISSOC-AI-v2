@@ -1,3 +1,20 @@
+<div align="center">
+
+# 🛡️ AEGIS SOC AI v2
+
+### Real-Time Windows Security Operations Center (SOC) Monitoring Platform
+
+<img src="docs/images/banner.png" width="100%">
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</div>
+
+
 # 🛡️ AEGIS SOC AI v2
 
 Real-Time Windows SOC Monitoring Platform built with **Python**, **Streamlit**, and **SQLite**.
