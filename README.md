@@ -1,19 +1,46 @@
 <div align="center">
 
+<div align="center">
+
 # 🛡️ AEGIS SOC AI v2
 
 ### Real-Time Windows Security Operations Center (SOC) Monitoring Platform
 
-<img src="docs/images/banner.png" width="100%">
+<p>
+Built using <b>Python</b>, <b>Streamlit</b>, <b>SQLite</b>, and <b>Windows Event Logs</b>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+<p>
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)
-![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
+![Windows](https://img.shields.io/badge/Windows-Event%20Logs-0078D6?logo=windows)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/github/stars/abhiramyadav03/AEGISSOC-AI-v2?style=social">
+<img src="https://img.shields.io/github/forks/abhiramyadav03/AEGISSOC-AI-v2?style=social">
+
+</p>
 
 </div>
 
+---
+
+# 🚀 Overview
+
+AEGIS SOC AI v2 is a **real-time Windows Security Operations Center (SOC) monitoring platform** developed to simulate enterprise-level security monitoring workflows.
+
+The platform continuously collects Windows Event Logs, detects suspicious activities, enriches Indicators of Compromise (IOCs), maps attacks to the MITRE ATT&CK framework, calculates risk scores, correlates security events, and visualizes incidents through an interactive Streamlit dashboard.
+
+Unlike a simple log viewer, AEGIS SOC AI v2 demonstrates the complete SOC workflow—from log collection to detection, enrichment, analysis, and visualization.
+
+---
 
 # 🛡️ AEGIS SOC AI v2
 
